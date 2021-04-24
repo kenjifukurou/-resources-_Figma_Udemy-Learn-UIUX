@@ -9,3 +9,6 @@ Figma resources from tutorials
 
 ### pages_layers:
 ![alt page-layout](pages_layers.png)
+
+### prototype_panel:
+![alt prototype](prototype_panel.png)
