@@ -6,3 +6,6 @@ Figma resources from tutorials
 
 ### bootstrap_styles: 
 ![alt bootstrap](bootstrap_styles.png)
+
+### pages_layers:
+![alt page-layout](pages_layers.png)
