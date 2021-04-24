@@ -12,3 +12,6 @@ Figma resources from tutorials
 
 ### prototype_panel:
 ![alt prototype](prototype_panel.png)
+
+### asset folder: 
+![alt asset](asset.png)
