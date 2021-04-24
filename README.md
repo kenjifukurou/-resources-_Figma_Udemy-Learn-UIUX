@@ -20,4 +20,4 @@ Figma resources from tutorials
 ![alt chapter-4](chapter-4.png)
 
 ### chapter 5:
-![altchapter-5](chapter-5.png)
+![alt chapter-5](chapter-5.png)
